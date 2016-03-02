@@ -1,0 +1,6 @@
+D:\SoftUni\VisualStudio\DataStructures\TreesAndTree-LikeDataStructures\01.PlayWithTrees\bin\Debug\01.PlayWithTrees.exe.config
+D:\SoftUni\VisualStudio\DataStructures\TreesAndTree-LikeDataStructures\01.PlayWithTrees\bin\Debug\01.PlayWithTrees.exe
+D:\SoftUni\VisualStudio\DataStructures\TreesAndTree-LikeDataStructures\01.PlayWithTrees\bin\Debug\01.PlayWithTrees.pdb
+D:\SoftUni\VisualStudio\DataStructures\TreesAndTree-LikeDataStructures\01.PlayWithTrees\obj\Debug\01.PlayWithTrees.csprojResolveAssemblyReference.cache
+D:\SoftUni\VisualStudio\DataStructures\TreesAndTree-LikeDataStructures\01.PlayWithTrees\obj\Debug\01.PlayWithTrees.exe
+D:\SoftUni\VisualStudio\DataStructures\TreesAndTree-LikeDataStructures\01.PlayWithTrees\obj\Debug\01.PlayWithTrees.pdb
